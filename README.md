@@ -1,7 +1,4 @@
 # Three.js Project
-
-![Three.js Logo](https://threejs.org/files/logo_threejs_black.svg)
-
 A 3D interactive experience built with Three.js.
 
 ## 🛠️ Setup & Installation
@@ -14,7 +11,7 @@ A 3D interactive experience built with Three.js.
 1. Clone the repository:
    ```bash
    git clone https://github.com/hanniyazohdi/3d-foot.git
-   cd your-repo
+   cd 3d-foot
 
 2. Install dependencies
    ```bash
